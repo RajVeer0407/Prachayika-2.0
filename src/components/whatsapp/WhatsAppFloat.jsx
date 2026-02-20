@@ -6,7 +6,7 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 
-const WHATSAPP_NUMBER = '91 95820 56738'
+const WHATSAPP_NUMBER = '919582056738'
 const MESSAGE = encodeURIComponent(
   'Namaste! I\'d like to commission an event with Prachayika Events.'
 )
